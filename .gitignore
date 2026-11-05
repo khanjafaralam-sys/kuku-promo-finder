@@ -1,0 +1,7 @@
+# Kuku's input pack is confidential - never commit screenplays or outputs that quote them
+data/
+*.zip
+outputs/
+.cache/
+__pycache__/
+.env

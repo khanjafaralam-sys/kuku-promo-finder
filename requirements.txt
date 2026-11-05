@@ -1,0 +1,4 @@
+# CLI needs nothing beyond the Python 3.10+ standard library.
+# Only the optional web UI needs these:
+streamlit>=1.30
+pandas>=2.0
